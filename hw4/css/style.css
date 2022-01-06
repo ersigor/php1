@@ -1,0 +1,24 @@
+header {
+  text-align: center;
+}
+.images {
+  width: 80%;
+  margin: 0 auto;
+}
+.add_foto {
+  text-align: center;
+  margin-top: 50px;
+}
+.add_foto input {
+  width: 400px;
+  background: rgb(218, 235, 194);
+}
+.add_foto span {
+  font-size: 20px;
+}
+.add_foto button {
+  background: rgb(204, 203, 218);
+  font-size: 20px;
+  border-radius: 10px;
+  
+}
